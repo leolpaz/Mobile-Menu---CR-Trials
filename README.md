@@ -19,7 +19,6 @@
 To get a local copy up and running follow these simple example steps.
 
 - Clone the repository with git clone https://github.com/leolpaz/React-Capstone.git;
-- Install dependencies with npm i/yarn install;
 - Open index.html
 
 ## Author
