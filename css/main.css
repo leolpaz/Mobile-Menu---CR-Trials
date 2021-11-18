@@ -27,7 +27,8 @@ header {
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+#desktop-nav,
+#desktop-nav ul {
   display: none;
 }
 
@@ -414,6 +415,41 @@ textarea {
   filter:
     invert(67%) sepia(46%) saturate(986%) hue-rotate(179deg)
     brightness(92%) contrast(82%);
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  color: gray;
+  position: absolute;
+  top: 0;
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  padding: 10%;
+}
+
+.menu p {
+  align-self: end;
+  margin-bottom: 12%;
+}
+
+.d-hidden {
+  display: none;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  font-weight: 800;
+  border-bottom: 1px solid gray;
+  padding-bottom: 3%;
+}
+
+.menu a:nth-child(3) {
+  margin-top: 10%;
+  margin-bottom: 10%;
 }
 
 @media all and (min-width: 720px) {
