@@ -14,8 +14,12 @@
 
 To get a local copy up and running follow these simple example steps.
 
+<<<<<<< HEAD
 - Clone the repository with git clone https://github.com/leolpaz/Mobile-Menu---CR-Trials.git;
 - Install dependencies with npm i/yarn install;
+=======
+- Clone the repository with git clone https://github.com/leolpaz/React-Capstone.git;
+>>>>>>> 4cf3284423dc839a9cd85036b1da694cf08827e8
 - Open index.html
 
 ## Author
