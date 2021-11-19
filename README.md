@@ -2,23 +2,19 @@
 
 # Mobile Menu
 
-![screenshot](./screensht.png)
+![screenshot](./screenshot.png)
 
 
 ## Built With
 
 - JavaScript
 
-## Live Page
-
-[Live Page]()
-
 ## Getting Started
 
 
 To get a local copy up and running follow these simple example steps.
 
-- Clone the repository with git clone https://github.com/leolpaz/React-Capstone.git;
+- Clone the repository with git clone https://github.com/leolpaz/Mobile-Menu---CR-Trials.git;
 - Install dependencies with npm i/yarn install;
 - Open index.html
 

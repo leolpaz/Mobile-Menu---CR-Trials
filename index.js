@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 menu.addEventListener('click', (event) => {
   const name = event.target.localName;
   console.log(name);
-  if (name === 'a') {
+  if (name === 'x') {
     menu.classList.add('d-hidden');
   }
 });
